@@ -1,3 +1,6 @@
+<img src="https://github.com/Octoberes/Pic/blob/main/Old/_DSC2093.jpg">
+<img src="https://github.com/Octoberes/Pic/blob/main/Old/_DSC2052.jpg">
+<img src="https://github.com/Octoberes/Pic/blob/main/Old/_DSC2054.jpg">
 <img src="https://github.com/Octoberes/Pic/blob/main/Old/_DSC0551.jpg">
 <img src="https://github.com/Octoberes/Pic/blob/main/Old/_DSC0555.jpg">
 <img src="https://github.com/Octoberes/Pic/blob/main/Old/_DSC0811_1.jpg">
